@@ -10,7 +10,7 @@
 
 ### Certificate
 
-* [Udacity_Deep_Learning_Nanodegree](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20DL%20graduation%20certificate.pdf)
+* [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20DL%20graduation%20certificate.pdf)
 
 ### Requirements
 
