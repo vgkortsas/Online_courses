@@ -11,3 +11,7 @@
 ### Certificate
 
 * [Udacity_Deep_Learning_Nanodegree](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20DL%20graduation%20certificate.pdf)
+
+### Requirements
+
+A full list of the requirements is given for each project separately. The deep learning libraries used in the projects are TensorFlow 1.x and Keras.
