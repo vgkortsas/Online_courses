@@ -8,3 +8,6 @@
 * [Project 4: Generate Faces](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree/Generate_Faces): Use generative adversarial networks (GANs) to generate new images of faces
 * [Project 5: Teach a Quadcopter how to fly](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree/Teach_a_Quadcopter_how_to_Fly): Design an agent that can fly a quadcopter, and then train it using the Reinforcement Learning technique Deep Deterministic Policy Gradients (DDPG).
 
+### Certificate
+
+* [Udacity_Deep_Learning_Nanodegree](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20DL%20graduation%20certificate.pdf)
