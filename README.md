@@ -2,8 +2,7 @@
 
 ### Courses
 
-* [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree): Implement a neural network to predict bike rentals.
-
+* [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree)
 
 ### Certificates
 
