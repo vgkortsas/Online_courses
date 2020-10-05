@@ -14,4 +14,4 @@
 
 ### Requirements
 
-A full list of the requirements is given for each project separately. The deep learning libraries used in the projects are TensorFlow 1.x and Keras.
+The deep learning libraries used in the projects are TensorFlow 1.x and Keras.
