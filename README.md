@@ -1,6 +1,6 @@
 # Online courses I have completed
 
-### Courses' graded projects
+### Courses' graded projects (if allowed to be uploaded by the course provider)
 
 * [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree)
 
