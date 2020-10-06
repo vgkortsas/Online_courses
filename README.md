@@ -6,7 +6,7 @@
 
 ### Certificates
 
-*[Udacity Natural Language Processing Nanodegree](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20NLP%20graduation%20certificate.pdf)
+* [Udacity Natural Language Processing Nanodegree](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20NLP%20graduation%20certificate.pdf)
 
 * deeplearning.ai Deep Learning Specialization 
 
