@@ -1,6 +1,5 @@
 # Online courses I have completed
 
-
 * [Udacity Natural Language Processing Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Natural_Language_Processing_Nanodegree)
 
 * deeplearning.ai Deep Learning Specialization (course provider does not allow to upload the codes)
