@@ -4,13 +4,13 @@
 
 * deeplearning.ai Deep Learning Specialization (course provider does not allow to upload the codes)
 
-	* Neural Networks and Deep Learning
+    * Neural Networks and Deep Learning
 
-	* Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+    * Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 
-	* Convolutional Neural Networks
+    * Convolutional Neural Networks
 
-	* Sequence Models
+    * Sequence Models
 
 
 * [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree)
