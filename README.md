@@ -2,6 +2,8 @@
 
 ## Courses' graded projects (if allowed to be uploaded by the course provider)
 
+* [Udacity Natural Language Processing Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Natural_Language_Processing_Nanodegree)
+
 * [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree)
 
 ## Certificates
