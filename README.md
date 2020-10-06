@@ -3,6 +3,18 @@
 
 * [Udacity Natural Language Processing Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Natural_Language_Processing_Nanodegree)
 
+* deeplearning.ai Deep Learning Specialization 
+
+	* Neural Networks and Deep Learning
+
+	* Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+
+	* Convolutional Neural Networks
+
+	* Sequence Models
+
+* [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20DL%20graduation%20certificate.pdf)
+
 * [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree)
 
 ## Certificates
