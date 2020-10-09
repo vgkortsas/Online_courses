@@ -7,6 +7,7 @@
     * Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
     ([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization%20certificate.pdf))
     * Convolutional Neural Networks
+    ([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Convolutional%20Neural%20Networks%20Certificate.pdf))
     * Sequence Models
 * [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree)
 
