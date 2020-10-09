@@ -9,7 +9,7 @@
     * Convolutional Neural Networks
     ([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Convolutional%20Neural%20Networks%20Certificate.pdf))
     * Sequence Models
-    [Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Sequence%20Models%20Coursera%20certificate.pdf)
+    ([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Sequence%20Models%20Coursera%20certificate.pdf))
 * [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree)
 
 ## Certificates
