@@ -12,4 +12,4 @@
 
 ## Requirements
 
-The deep learning library used in the project is PyTorch.
+The deep learning library used in the projects is PyTorch.
