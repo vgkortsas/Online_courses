@@ -1,5 +1,7 @@
 # Online courses I have completed
 
+* [Udacity Machine Learning Engineer Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Machine_Learning_Engineer_Nanodegree)
+([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20ML%20engineer%20graduation%20certificate.pdf))
 * [Udacity Natural Language Processing Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Natural_Language_Processing_Nanodegree) ([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20NLP%20graduation%20certificate.pdf))
 * deeplearning.ai Deep Learning Specialization
     * Neural Networks and Deep Learning
@@ -12,8 +14,7 @@
     ([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Sequence%20Models%20Coursera%20certificate.pdf))
 * [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree)
 ([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20DL%20graduation%20certificate.pdf))
-* [Udacity Machine Learning Engineer Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Machine_Learning_Engineer_Nanodegree)
-([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20ML%20engineer%20graduation%20certificate.pdf))])
+
 
 Note: deeplearning.ai does not allow to upload the codes of the courses.
 
