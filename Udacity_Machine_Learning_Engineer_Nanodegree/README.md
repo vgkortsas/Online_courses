@@ -1,7 +1,7 @@
 # Udacity Machine Learning Engineer Nanodegree
 
 ## Class Projects
-* [Project 1 - Deploying a Sentiment Analysis model](https://github.com/vgkortsas/Online_courses/tree/master Udacity_Machine_Learning_Engineer_Nanodegree/Sentiment_Analysis_Web_App): Create a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews.
+* [Project 1 - Deploying a Sentiment Analysis model](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Machine_Learning_Engineer_Nanodegree/Sentiment_Analysis_Web_App): Create a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews.
 * [Project 2 - Plagiarism Detection](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Machine_Learning_Engineer_Nanodegree/Plagiarism_Detection): Train and deploy a binary classification model that learns to label an answer file as either plagiarized or not, based on the features you provide the model.
 * [Capstone Project - Dog breed classifier](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Machine_Learning_Engineer_Nanodegree/Capstone_project): Build a convolutional neural network (CNN) to classify dog's breed.
 
