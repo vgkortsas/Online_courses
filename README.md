@@ -13,7 +13,7 @@
 * [Udacity Deep Learning Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Deep_Learning_Nanodegree)
 ([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20DL%20graduation%20certificate.pdf))
 * [Udacity Machine Learning Engineer Nanodegree](https://github.com/vgkortsas/Online_courses/tree/master/Udacity_Machine_Learning_Engineer_Nanodegree)
-([Certificate]((https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20ML%20engineer%20graduation%20certificate.pdf))])
+([Certificate](https://github.com/vgkortsas/Online_courses/blob/master/Certificates/Udacity%20ML%20engineer%20graduation%20certificate.pdf))])
 
 Note: deeplearning.ai does not allow to upload the codes of the courses.
 
